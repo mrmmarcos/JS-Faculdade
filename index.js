@@ -1,3 +1,5 @@
+/*
+
 //tabuada do 3
 var contador = 0;
 
@@ -45,4 +47,10 @@ for (var i = 130; i <= 156; i++) {
 
 for (var i = 156; i >= 130; i--) {
   console.log("Variável i = " + i);
+}
+
+*/
+
+for (var x = 0; x <= 10; x += 2) {
+  console.log(x);
 }
